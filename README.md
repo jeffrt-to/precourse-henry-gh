@@ -1,2 +1,2 @@
-# precourse-henry-gh
-este es un repositorio de prueba modulo 2 precours henry
+ este proyecto es una prueba de crear y clonar desde git hub a mi compu
+ 
